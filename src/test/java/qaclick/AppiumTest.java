@@ -19,5 +19,9 @@ public class AppiumTest {
 	@Test
 	public void IOSApp() {
 		System.out.println("IOS application Mobile");
+		System.out.println("IOS application Mobile2");
+		System.out.println("IOS application Mobile3");
+		System.out.println("IOS application Mobile4");
+		
 	}
 }

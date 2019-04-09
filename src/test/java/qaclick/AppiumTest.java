@@ -24,4 +24,13 @@ public class AppiumTest {
 		System.out.println("IOS application Mobile4");
 		
 	}
+	
+	@Test
+	public void IOSAppToGitHub() {
+		System.out.println("GitHub IOS application Mobile");
+		System.out.println("GitHub IOS application Mobile2");
+		System.out.println("GitHub IOS application Mobile3");
+		System.out.println("GitHub IOS application Mobile4");
+		
+	}
 }

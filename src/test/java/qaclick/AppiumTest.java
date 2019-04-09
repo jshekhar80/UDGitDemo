@@ -9,6 +9,10 @@ public class AppiumTest {
 
 		System.out.println("Android application Mobile");
 		
+		System.out.println("Android application Mobile GitHub1");
+		
+		System.out.println("Android application Mobile GitHub2");
+		
 		
 	}
 
